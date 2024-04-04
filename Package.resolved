@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "preludepackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Fiser12/PreludePackage",
+      "state" : {
+        "revision" : "7d35677ab4b5c8f186b7256061e6ea4ebe8dc805",
+        "version" : "0.0.2"
+      }
+    },
+    {
+      "identity" : "synctioncore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Fiser12/SyncTionCore",
+      "state" : {
+        "revision" : "c3f14cd545d535227144ddc60c56de0907e2fcc1",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
