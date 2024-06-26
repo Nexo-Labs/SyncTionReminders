@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Fiser12/SyncTionCore",
       "state" : {
-        "revision" : "c3f14cd545d535227144ddc60c56de0907e2fcc1",
-        "version" : "0.1.0"
+        "revision" : "9beb9620fbee420d8bd8f45961ee9db8f45c9dc1",
+        "version" : "0.1.5"
       }
     }
   ],
