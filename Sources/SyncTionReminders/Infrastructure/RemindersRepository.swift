@@ -67,7 +67,7 @@ final class RemindersRepository: EKEventsRepository, FormRepository {
     static var scratchTemplate: FormTemplate {
         let style = FormModel.Style(
             formName: RemindersFormService.shared.description,
-            icon: .static(RemindersFormService.shared.icon),
+            icon: .static(RemindersFormService.shared.icon, loadAsPng: false),
             color: Color.accentColor.rgba
         )
         let remindersDate = DateTemplate(
